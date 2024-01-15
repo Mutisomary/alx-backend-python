@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Coroutine function"""
 import asyncio
 import time
 from typing import List
